@@ -8,7 +8,6 @@ end
 
 def add_element_to_end_of_array(array, element)
   human_anatomy << ("Elbows")
-  puts human_anatomy.inspect
 end
 
 
