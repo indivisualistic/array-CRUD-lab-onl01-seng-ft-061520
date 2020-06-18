@@ -20,8 +20,7 @@ end
 
 def remove_element_from_end_of_array(array)
   elements = ["Heads", "Shoulders", "Knees", "Toes"]
-  elements.pop("arrays")
-  
+  elements.pop
 
 end
 
