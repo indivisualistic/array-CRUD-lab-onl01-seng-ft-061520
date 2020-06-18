@@ -8,8 +8,8 @@ end
 
 def add_element_to_end_of_array(array, element)
   human_anatomy.push("Elbows")
-  puts human_anatomy.inspect
 end
+
 
 
 def add_element_to_start_of_array(array, element)
