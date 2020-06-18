@@ -6,10 +6,9 @@ def create_an_array
   human_anatomy = ["Heads", "Shoulders", "Knees", "Toes"]
 end
 
-def add_element_to_end_of_array = (array, element)
+def add_element_to_end_of_array(array, element)
   human_anatomy.push("Elbows")
 end
-
 
 
 def add_element_to_start_of_array(array, element)
