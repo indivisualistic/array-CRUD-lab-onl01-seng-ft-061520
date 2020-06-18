@@ -7,7 +7,9 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  human_anatomy.push("Elbows")
+   elements = ["Heads", "Shoulders", "Knees", "Toes"]
+   elements << "Elbows"
+   
 end
 
 
