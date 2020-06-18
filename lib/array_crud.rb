@@ -32,7 +32,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   elements = ["wow", "Shoulders", "Knees", "Toes"]
-  elements[3]
+  elements[2]
 
 end
 
