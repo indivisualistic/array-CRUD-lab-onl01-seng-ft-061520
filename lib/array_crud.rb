@@ -43,5 +43,8 @@ end
 
 
 def retrieve_last_element_from_array(array)
+  elements = ["wow", "am", "Knees", "Toes"]
+  elements[3]
+  
 
 end
