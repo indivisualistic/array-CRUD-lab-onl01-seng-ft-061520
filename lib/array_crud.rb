@@ -1,14 +1,14 @@
-def human_anatomy
+def create_an_empty_array
   []
 
 end
 
-def human_anatomy
+def create_an_array
   elements = ["Heads", "Shoulders", "Knees", "Toes"]
 
 end
 
-def human_anatomy(array, element)
+def add_element_to_end_of_array(array, element)
   human_anatomy << "elbows"
 
 end
